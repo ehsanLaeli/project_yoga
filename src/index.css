@@ -1,0 +1,145 @@
+body {
+  font-family: "Vazir", "tahoma", "Ubuntu" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+
+}
+::-webkit-scrollbar{
+ background-color: rgb(39, 39, 39);
+  height: 5px;
+  width: 8px;
+  direction: rtl;
+  transition: 0.7s;
+}
+::-webkit-scrollbar-thumb{
+  background-image: linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(0,30,255,1) 100%);
+
+  height: 300px;
+  width: 50px;
+  transition: 0.7s;
+  border-radius: 0.1px ;
+  
+}
+/* //////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+///////////////////  لایه اول  /////////////////////////
+///////////////////////////////////////////////////////
+/////////////////////////////////////////////////////// */
+/* لایه اول */
+
+/* لایه اول آبی */
+
+/* لایه اول آبی */
+
+.navbar {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  direction: rtl;
+  margin-right: 450px;
+  margin-top: -30px;
+  top: -570px;
+}
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  padding: 0rem 2rem;
+}
+.navbar ul li {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: large;
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: 0.3s all;
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+li a {
+  display: block;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+li a:hover {
+  color: #2e4cff;
+  -webkit-text-stroke: 0.5px white;
+  position: relative;
+  cursor: pointer;
+}
+/* دکمه ها */
+/* دکمه ها */
+
+/* عکس ها */
+.imag-div-aval {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin-top: 150px;
+  margin-right: 200px;
+}
+/* عکس ها */
+.Pragrag-yoga {
+  direction: ltr;
+  position: absolute;
+  font-size: 50px;
+  font: bold;
+  margin-right: 750px;
+  margin-top: 200px;
+  color: white;
+}
+.pragraf-smal {
+  direction: ltr;
+  position: absolute;
+  font-size: 17px;
+  color: white;
+  font: bold;
+  margin-top: 370px;
+  margin-right: 855px;
+}
+
+/* لایه اول */
+input[type="text"]::-webkit-input-placeholder,
+input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placeholder {
+  color: #f8f8f4;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+  color: #f8f8f4 !important;
+  background-color: #44475a !important;
+  border-color: #bd93f9 !important;
+}
+
+.form-control {
+  background-color: #44475a !important;
+  color: #f8f8f4 !important;
+  border-color: #bd93f9 !important;
+}
+
+/* ////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+////////////////////////  دیو دوم  ///////////////////////////
+//////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////// */
+
+/* ////////// متن ////////////// */
+/* ////////// متن ////////////// */
+/* //////////// عکس ها ////////////////// */
+/* ///////////// عکس ها ////////////////// */
+/* //////////// دکمه ها ////////////// */
+/* //////////////////////// */
+/* ///////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+/* //////////// دکمه ها ////////////// */
